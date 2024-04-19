@@ -9,5 +9,6 @@
 "g" : "yes",
 "h" : "no",
 "ads" : "yes",
-"myAds" : "yes"
+"myAds" : "yes",
+"myAdsTime" : 40
 }
